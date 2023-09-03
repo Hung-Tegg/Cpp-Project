@@ -2,7 +2,7 @@
 
 int main()
 {
-  std::vector<float> marks = {5,4,3,2,1};
+  std::vector<float> marks = {5,4,3,2,1,10};
 
   Student Hung(marks);
   Hung.CalculateCGPA();

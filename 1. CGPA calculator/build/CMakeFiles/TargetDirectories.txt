@@ -1,0 +1,3 @@
+/Users/huynhbathaihung/Desktop/C++Project/1. CGPA calculator/build/CMakeFiles/CGPACalculator.dir
+/Users/huynhbathaihung/Desktop/C++Project/1. CGPA calculator/build/CMakeFiles/edit_cache.dir
+/Users/huynhbathaihung/Desktop/C++Project/1. CGPA calculator/build/CMakeFiles/rebuild_cache.dir

@@ -28,5 +28,5 @@ void Student::CalculateCGPA()
 
 void Student::CalculateCGPAPercentage()
 {
-  this->CGPAPercentage = (this->CGPA * 0.95);
+  this->CGPAPercentage = (this->CGPA * 0.80);
 }
